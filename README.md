@@ -41,11 +41,11 @@ cd ~/Documents/Projects
 
 ### 3. Clone the repository:
 ```bash
-git clone https://github.com/ed-donner/llm_engineering.git
+git clone https://github.com/ed-donner/llm_engineering.git](https://github.com/ShekharBhardwaj/BootCampLLM.git
 ```
 This will create a new directory named `llm_engineering`. Navigate to it with:
 ```bash
-cd llm_engineering
+cd BootCampLLM
 ```
 This directory is known as the "project root directory."
 
@@ -61,7 +61,7 @@ If you encounter issues with Anaconda, skip to **Part 2B** for an alternative ap
 
 ### 2. Set up the environment:
 ```bash
-cd ~/Documents/Projects/llm_engineering  
+cd ~/Documents/Projects/BootCampLLM  
 conda env create -f environment.yml
 ```
 This process can take up to 30 minutes. Once complete, activate your environment with:
@@ -164,7 +164,7 @@ source llms/bin/activate
 jupyter lab
 ```
 
-And you’re ready to go! If you encounter issues, consult the troubleshooting notebook (`week1/troubleshooting.ipynb`) or reach out to me.
+And you’re ready to go! If you encounter issues reach out to me.
 
 Happy coding!
 
