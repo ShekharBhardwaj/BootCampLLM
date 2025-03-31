@@ -2,7 +2,7 @@
 
 ## Instant Gratification:
 
-![instant_gratification](./pictures/instant_gratification.png)
+<img src="./pictures/instant_gratification.png" alt="instant_gratification" width="400"/>
 
 We will start the course by installing Ollama so you can see results immediately!
 1. Download and install Ollama from https://ollama.com noting that on a PC you might need to have administrator permissions for the install to work properly
