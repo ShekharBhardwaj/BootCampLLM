@@ -121,6 +121,11 @@ Create a `.env` file in your project root directory to store API keys.
 
 ### 1. Create the file:
 ```bash
+vim .env
+```
+or if you hate vim, lol
+
+```bash
 nano .env
 ```
 Add your keys like this:
