@@ -1,6 +1,7 @@
 
 
 # AI Environment Setup Guide
+<img src="./pictures/setting_up.png" alt="setting_up" width="400"/>
 
 Setting up a powerful environment to work at the forefront of AI isn’t as straightforward as it could be. For most people, these instructions will work smoothly, but occasionally, issues arise. If you encounter any problems, please reach out—I’m here to help you get up and running quickly. Nothing is worse than feeling _stuck_. You can message me, email me, or send a LinkedIn message, and I’ll help you out.
 
