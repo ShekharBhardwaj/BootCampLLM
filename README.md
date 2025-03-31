@@ -41,7 +41,7 @@ cd ~/Documents/Projects
 
 ### 3. Clone the repository:
 ```bash
-git clone https://github.com/ed-donner/llm_engineering.git](https://github.com/ShekharBhardwaj/BootCampLLM.git
+git clone https://github.com/ShekharBhardwaj/BootCampLLM.git
 ```
 This will create a new directory named `llm_engineering`. Navigate to it with:
 ```bash
