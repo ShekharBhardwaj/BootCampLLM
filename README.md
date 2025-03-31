@@ -43,7 +43,7 @@ cd ~/Documents/Projects
 ```bash
 git clone https://github.com/ShekharBhardwaj/BootCampLLM.git
 ```
-This will create a new directory named `llm_engineering`. Navigate to it with:
+This will create a new directory named `BootCampLLM`. Navigate to it with:
 ```bash
 cd BootCampLLM
 ```
